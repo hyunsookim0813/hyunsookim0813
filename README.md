@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm currently interested in **Data Science** and **Machine Learning**.
-- I'm currently learning **Large Language Model**.
+- I'm currently learning **Large Language Model(LLM)**.
 - I want to be **Data Analysis**.
  
 ###  :muscle:Skills
