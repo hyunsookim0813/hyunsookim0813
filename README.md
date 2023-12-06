@@ -22,13 +22,19 @@ plastic, flat, flat-square, for-the-badge, social (예시 : flat-square)
 ### 💻 Tools 
 
 <p>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+ 
+<img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=for-the-badge&logo=Visualstudiocode&logoColor=white" /> 
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 </p>
 
+### 💻 About
+<p>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+</p>
 
 ### :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:kimhyunsoo08@naver.com)](mailto:kimhyunsoo08@naver.com)
