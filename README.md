@@ -2,7 +2,7 @@
 
 - I'm currently interested in **Data Science** and **Machine Learning**.
 - I'm currently learning **Large Language Model**.
-- I want to be **Data Scientist**.
+- I want to be **Data Analysis**.
 
 ###  :muscle:Skills
 <p>
