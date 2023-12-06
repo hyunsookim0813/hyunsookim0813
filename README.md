@@ -29,12 +29,8 @@
 
 <!--
 <b></b>
-![Hyunsoo's GitHub stats](https://github-readme-stats.vercel.app/api?# username=hyunsookim0813&show_icons=true&theme=radical)
--->
-
-<b></b>
 [![Hyunsoo's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hyunsookim0813)](https://github.com/hyunsookim0813/github-contribution-stats/)
-
+-->
 ###  :mailbox: Contact
 
 <a href="mailto:kimhyunsoo08@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
