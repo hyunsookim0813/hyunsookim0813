@@ -6,27 +6,27 @@
 - I'm currently learning **Large Language Model(LLM)**.
 - I want to be **Data Analysis**.
  
-### 🛠 Stacks 🛠
+### 💻 Stacks 
 <p>
 
 <!---
 plastic, flat, flat-square, for-the-badge, social (예시 : flat-square)
 -->
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-A4373A?style=flat-square&logo=Microsoft Access&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-A4373A?style=for-the-badge&logo=Microsoft Access&logoColor=white"/>
 
 </p>
 
-### Tools
+### 💻 Tools 
 
 <p>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 </p>
 
 <br>
