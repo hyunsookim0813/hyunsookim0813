@@ -4,7 +4,7 @@
 
 - I'm currently interested in **Data Science** and **Machine Learning**.
 - I'm currently learning **Large Language Model(LLM)**.
-- I want to be **Data Analysis**.
+- I want to be **Data Analysit**.
  
 ### 💻 Stacks 
 <p>
