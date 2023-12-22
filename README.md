@@ -45,10 +45,10 @@ plastic, flat, flat-square, for-the-badge, social (예시 : flat-square)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunsookim0813%2Fhit-counter&count_bg=%23D8ACC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
 <br>         
 
+<!---
 ## 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhyunsoo08)](https://solved.ac/kimhyunsoo08/)
-
-
+-->
 
 
 
