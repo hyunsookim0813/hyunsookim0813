@@ -24,6 +24,8 @@ plastic, flat, flat-square, for-the-badge, social (예시 : flat-square)
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Slack&logoColor=white" />
+
 </p>
 
 <h3 align="center">💻 Abouts</h3> 
