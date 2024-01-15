@@ -27,15 +27,9 @@
 
 <h3 align="center">:mailbox_with_mail: Contacts</h3> 
 <p align="center">
-<a href="kimhyunsoo08@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=kimhyunsoo08@naver.com"/></a>
-</p>
-<br>
-
-<h3 align="center">:mailbox_with_mail: Contacts</h3> 
-<p align="center">
   <a href="mailto:kimhyunsoo08@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=kimhyunsoo08@naver.com"/></a>
 </p>
-
+<br>
 
 <p align="center">
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunsookim0813%2Fhit-counter&count_bg=%23E96BB7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
