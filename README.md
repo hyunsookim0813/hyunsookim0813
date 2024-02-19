@@ -28,7 +28,7 @@
 <p align="center">
   <a href="mailto:kimhyunsoo2952@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=kimhyunsoo2952@gmail.com"/></a>
   <a href="mailto:kimhyunsoo08@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyunsoo08@naver.com"/></a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hs0813/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <br>
 
